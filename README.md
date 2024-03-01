@@ -17,5 +17,4 @@
 * Graphs/Finite State Machines
 * Regular Languages
 
-
 > Written with [StackEdit](https://stackedit.io/).
