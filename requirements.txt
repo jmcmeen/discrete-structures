@@ -1,0 +1,19 @@
+# Environment for the Discrete Structures notebooks.
+# Create a venv and install with:
+#   python3 -m venv .venv
+#   .venv/bin/pip install -r requirements.txt
+
+# Notebook execution
+jupyter
+nbconvert
+ipykernel
+
+# Math / numerics / plotting used across notebooks
+numpy
+matplotlib
+networkx
+sympy
+matplotlib-venn   # Venn diagrams in 01_sets
+
+# Used only by the 16_ml capstone (small comparison demo)
+scikit-learn
